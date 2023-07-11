@@ -183,9 +183,7 @@ Para criar um projeto Vue, utilize o seguinte comando:
 npm init vue@latest
 ```
 
-O npx é padrão do npm, não é preciso intalá-lo.
-
-Logo após, siga as instruções dadas pelo próprio Next:
+Logo após, siga as instruções dadas pelo próprio Vue:
 ```bash
 Project name: "Aqui você coloca o nome do seu projeto"
 Add TypeScript? "Opte por No, se você quer usar Javascript"
@@ -209,7 +207,7 @@ No cmd aberto, digite <strong>"code ."</strong> sem as aspas</li>
 </li>
 </ul>
 
-Instalar as dependências e iniciar o projeto: (Obs: o node_modules é deletado por padrão quando o projeto é enviado ao Github e, então, todas as vezes que baixar o projeto do repositório, é preciso instalar as dependências.). Após instalar, volte aqui para iniciar o projeto com os comandos do próprio Next. <a href="#commands_install">Clique aqui</a> para ver os comandos para instalar as dependências.
+Instalar as dependências e iniciar o projeto: (Obs: o node_modules é deletado por padrão quando o projeto é enviado ao Github e, então, todas as vezes que baixar o projeto do repositório, é preciso instalar as dependências.). Após instalar, volte aqui para iniciar o projeto com os comandos do próprio Vue. <a href="#commands_install">Clique aqui</a> para ver os comandos para instalar as dependências.
 
 Para iniciar o projeto utilize o comando: caso utilize npm: <strong>npm run dev</strong>, caso seja Yarn: <strong>yarn dev</strong> ou caso seja pnpm: <strong>pnpm run dev</strong>. Logo após, aparecerá o host e porta em que está rodando a sua aplicação. Vá no navegador, coloque o host e porta dado na url. 
 <p>
