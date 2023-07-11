@@ -9,11 +9,11 @@
 
 <h3>2. Agora, é necessário instalar algum editor de código: (VSCode, SublimeText, Atom - Foi finalizado, mas tem seu repositório no github)</h3>
 
-<a href="https://code.visualstudio.com/download">Link para VSCode</a>
+<a href="https://code.visualstudio.com/download" target="_blank">Link para VSCode</a>
 
-<a href="https://www.sublimetext.com/">Link para SublimeText</a>
+<a href="https://www.sublimetext.com/" target="_blank">Link para SublimeText</a>
 
-<a href="https://github.com/atom/atom">🔴 Link para o repositório oficial do Atom (Finalizado pelo desenvolvedor)</a>
+<a href="https://github.com/atom/atom" target="_blank">🔴 Link para o repositório oficial do Atom (Finalizado pelo desenvolvedor)</a>
 
 <h4><strong>Após seguir os passos anteriores, vamos entender os gerenciadores de pacotes.</strong></h4>
 <p>
